@@ -1,9 +1,9 @@
-# Ladies Learning Code
+# Teens Learning Code
 # Introduction à l'information artificielle
 
 ## Liens rapides
 
-Aperçu des diapositives : https://ladieslearningcode.github.io/llc-intro-to-ai-master-fr/diapositives.html
+Aperçu des diapositives : https://ladieslearningcode.github.io/teenslc-intro-to-ai-fr/diapositives.html
 
 ## Sources
 
