@@ -61,3 +61,7 @@ font-size: 1.7rem;
 .dropdown:hover .dropbtn {
     background-color: #FF584E;
 }
+
+.women-in-ai img {
+  width: 400px;
+}
